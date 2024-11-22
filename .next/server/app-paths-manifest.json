@@ -1,0 +1,5 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(root)/ask-question/page": "app/(root)/ask-question/page.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js"
+}
